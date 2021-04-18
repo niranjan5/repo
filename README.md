@@ -1,2 +1,2 @@
 # repo
-Niranjan repo
+Niranjan repository on Github
